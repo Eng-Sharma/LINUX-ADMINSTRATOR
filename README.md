@@ -6,6 +6,7 @@ LINUX ADMINSTRATOR
 Lunch waxaa la dhahaa Taskbar 
 
 markaa rabtid inaad ogaatid qofka isticmaalayo
+------------------------------------------------
 #Whoami#
 
 Itus meeshaa joogo
