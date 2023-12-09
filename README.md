@@ -83,13 +83,13 @@ Sida loo dajiyo Video Downloader
 ---------------------------------
 # Sudo apt-get install youtube-dl # 
 
-~ tidd calaamadaan waa markuu joogo 
+~ tidd calaamadaan waa markuu joogo Home 
 -------------------------------------
-# Home #
+ Home 
 
-$ dollar calaamadaan waa markuu joogo
+$ dollar calaamadaan waa marka uu joogo Normal 
 -------------------------------------
-# Normal #
+Normal 
 
 # hash calaamadaan waa makuu joogo root
 --------------------------------------------
